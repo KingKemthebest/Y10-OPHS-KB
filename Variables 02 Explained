@@ -1,0 +1,32 @@
+#Variables
+
+name = "Kemari"
+#This is a variable
+#The variable is called name
+#The variable called name
+#contains some data
+
+print(name)
+
+
+#Variables 2
+name1 = "Kemari"
+name2 = "Wayne"
+name3 = "Dwayne"
+name4 = "Kameisha"
+name5 = "Mahalia"
+print(name1)
+print(name2)
+print(name3)
+print(name4)
+print(name5)
+
+Town1 = "Croydon"
+Town2 = "West-Wickham"
+Town3 = "Bromley"
+Town4 = "Crawley"
+Town5 = "Chessington"
+
+print (Town1,Town2,Town3,Town4,Town5)
+
+
