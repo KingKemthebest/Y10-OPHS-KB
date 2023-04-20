@@ -1,0 +1,21 @@
+#this is a comment
+#variables vs constants
+#cvariables are declared in titlecase
+#Cosnstant are declared in CAPITALS
+
+#Example of variable
+
+Team1Name = "king kem"
+Teams2name = "Atlas"
+
+#variable have a useful name
+#variable store a value (can change)
+#variables can NOT start with a number
+#e.g. 1TeamName = "Atlas"
+#This will be a syntax error
+
+#this is an example of a constant
+
+FREETHROW= 1
+TWOPOINTER= 2
+THREEPOINTER= 3
