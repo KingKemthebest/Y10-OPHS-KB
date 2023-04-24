@@ -1,0 +1,7 @@
+num1 = input("ENTER A NUMBER ")
+num2 = input("ENTER A NUMBER ")
+
+if num1 > num2:
+    print(num1,num2)
+else:
+    print(num2,num1)
