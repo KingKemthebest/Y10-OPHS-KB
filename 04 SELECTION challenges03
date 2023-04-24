@@ -1,0 +1,9 @@
+num1 = input("give a number between 10 and 20")
+
+if 10<(num1)<20: is this correct:
+    print("Thanks")
+else:
+    print("wrong")
+
+if 10<(num1)<20: is this correctJosiah Mettle-Olympio 1009:52
+UserNumber = float(input("Enter a number between 10 and 20"
