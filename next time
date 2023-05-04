@@ -1,0 +1,4 @@
+Tottal = 0
+while Tottal < 50:
+  number =  input("Enter a number")
+    Tottal = number + Tottal
