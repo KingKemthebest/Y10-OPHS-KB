@@ -1,0 +1,12 @@
+option = input("Do you want to conver to c or f>>> ")
+if option == "f":
+   tempeature_in_centigrade = input("what is the degrees in centigrade>>> ")
+   tempeature_in_fahrenheit = int(tempeature_in_centigrade) * 1.8 + 32
+   print(tempeature_in_fahrenheit)
+else:
+   tempeature_in_fahrenheit = input("what is the degrees in fahrenheit>>> ")
+   tempeature_in_centigrade = int(tempeature_in_fahrenheit) - 32 
+   more = tempeature_in_centigrade * 5
+   last = more / 9
+  
+   print(last)
