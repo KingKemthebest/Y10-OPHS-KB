@@ -1,0 +1,8 @@
+Width = input("Enter The Width: ")
+Length = input("Enter The length: ")
+Price = input("Enter The price of carpet per Meter: ")
+
+
+tottal = int(Width) * int(Length) * int(Price)
+print(tottal)
+
